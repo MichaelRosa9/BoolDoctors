@@ -2892,7 +2892,6 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
         this.filters["sortRevCount"] = this.$route.params.sortRevCount;
       }
 
-      console.log(this.filters["spec"]);
       return _objectSpread(_objectSpread({}, reqParams), this.filters);
     },
     createParams2: function createParams2(page) {
@@ -2912,7 +2911,6 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
         this.filters["sortRevCount"] = this.$route.params.sortRevCount;
       }
 
-      console.log(this.filters["spec"]);
       return _objectSpread(_objectSpread({}, reqParams), this.filters);
     },
     // Estendere questa funzione per prendere altri 2 parametri (ricerca per num di reviews e per stelle).
@@ -2929,7 +2927,6 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
         //console.log(res.data.data);
         _this.users = res.data.data;
         _this.loading = false;
-        console.log(_this.users);
         _this.pagination = {
           current: res.data.current_page,
           last: res.data.last_page
@@ -2962,7 +2959,7 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
       var _this3 = this;
 
       axios__WEBPACK_IMPORTED_MODULE_2___default.a.get('http://127.0.0.1:8000/api/doctors/specs').then(function (res) {
-        _this3.specializations = res.data; //console.log(this.specializations);
+        _this3.specializations = res.data;
       })["catch"](function (err) {
         console.error(err);
       });

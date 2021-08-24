@@ -161,7 +161,6 @@ import axios from 'axios';
       if (this.$route.params.sortRevCount) {
         this.filters["sortRevCount"] = this.$route.params.sortRevCount;
       }
-        console.log(this.filters["spec"]);
       return { ...reqParams, ...this.filters };
     },
     createParams2(page) {
@@ -178,7 +177,6 @@ import axios from 'axios';
       if (this.$route.params.sortRevCount) {
         this.filters["sortRevCount"] = this.$route.params.sortRevCount;
       }
-        console.log(this.filters["spec"]);
       return { ...reqParams, ...this.filters };
     },
 
@@ -197,8 +195,7 @@ import axios from 'axios';
         .then((res) => {
           //console.log(res.data.data);
           this.users = res.data.data;
-          this.loading = false
-          console.log(this.users)
+          this.loading = false;
           this.pagination = {
               current: res.data.current_page,
             last: res.data.last_page,
@@ -235,7 +232,6 @@ import axios from 'axios';
             axios.get('http://127.0.0.1:8000/api/doctors/specs')
             .then(res => {
                 this.specializations=res.data;
-                //console.log(this.specializations);
             })
             .catch(err => {
                 console.error(err);

@@ -17,11 +17,6 @@ Vue.use(Vuesax, {
     // options here
   })
 Vue.use(VueCarousel);
-/* const app = new Vue({
-    el: '#app',
-    router,
-    render: h => h(App)
-}); */
 
 new Vue({
     Vuesax,
