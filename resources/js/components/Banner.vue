@@ -58,12 +58,12 @@
                     </div>
                     <div class="testimonial-content">
                         <p>
-                            Mi piace tantissimo!! Ho finalmente risolto il mio problema alla schiena con la dottoressa trovata qua sopra! Finalemnte posso tornare a fare la stripper!
+                            Mi piace tantissimo!! Ho finalmente risolto il mio problema alla schiena con la dottoressa trovata qua sopra! Finalemnte posso tornare a fare la contorzionista!
                         </p>
                     </div>
                     <div class="testimonial-meta">
                         <strong class="testimonial-name" itemprop="name">Marisa Belarda</strong>
-                        <span class="testimonial-job-title" itemprop="jobTitle">Stripper professionista</span>
+                        <span class="testimonial-job-title" itemprop="jobTitle">Contorzionista professionista</span>
                     </div>
                 </div>
             </div>
@@ -99,7 +99,7 @@
                     </div>
                     <div class="testimonial-meta">
                         <strong class="testimonial-name" itemprop="name">Maria Chespanzada</strong>
-                        <span class="testimonial-job-title" itemprop="jobTitle">Tuffatrice</span>
+                        <span class="testimonial-job-title" itemprop="jobTitle">Personal Trainer</span>
                     </div>
                 </div>
             </div>

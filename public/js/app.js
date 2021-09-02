@@ -2266,6 +2266,79 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -3381,7 +3454,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 exports.push([module.i, "@import url(https://fonts.googleapis.com/css2?family=Baloo+2&display=swap);", ""]);
 
 // module
-exports.push([module.i, "body[data-v-b9bc2c0a] {\n  font-family: \"Baloo 2\", cursive;\n  font-size: 16px;\n  color: #b2dfdb;\n  text-rendering: optimizeLegibility;\n  font-weight: initial;\n}\n.myUl[data-v-b9bc2c0a] {\n  margin-bottom: 0;\n  padding-left: 0;\n}\n.light[data-v-b9bc2c0a] {\n  background: #b2dfdb;\n}\na[data-v-b9bc2c0a], a[data-v-b9bc2c0a]:hover {\n  text-decoration: none;\n  transition: color 0.3s ease-in-out;\n}\n#pageHeaderTitle[data-v-b9bc2c0a] {\n  margin: 2rem 0;\n  text-transform: uppercase;\n  text-align: center;\n  font-size: 2.5rem;\n}\n\n/* Cards */\n.postcard[data-v-b9bc2c0a] {\n  flex-wrap: wrap;\n  display: flex;\n  box-shadow: 0 4px 21px -12px rgba(0, 0, 0, 0.66);\n  border-radius: 10px;\n  margin: 0 0 2rem 0;\n  overflow: hidden;\n  position: relative;\n  color: #ffffff;\n}\n.postcard.light[data-v-b9bc2c0a] {\n  background-color: #e1e5ea;\n}\n.postcard .t-dark[data-v-b9bc2c0a] {\n  color: #18151f;\n}\n.postcard a[data-v-b9bc2c0a] {\n  color: inherit;\n}\n.postcard h1[data-v-b9bc2c0a], .postcard .h1[data-v-b9bc2c0a] {\n  margin-bottom: 0.5rem;\n  font-weight: 500;\n  line-height: 1.2;\n}\n.postcard .small[data-v-b9bc2c0a] {\n  font-size: 80%;\n}\n.postcard .postcard__title[data-v-b9bc2c0a] {\n  font-size: 1.75rem;\n}\n.postcard .postcard__img[data-v-b9bc2c0a] {\n  max-height: 180px;\n  width: 100%;\n  -o-object-fit: cover;\n     object-fit: cover;\n  position: relative;\n}\n.postcard .postcard__img_link[data-v-b9bc2c0a] {\n  display: contents;\n}\n.postcard .postcard__bar[data-v-b9bc2c0a] {\n  width: 150px;\n  height: 15px;\n  margin: 10px 0;\n  border-radius: 5px;\n  background-color: #424242;\n  transition: width 0.2s ease;\n}\n.postcard .postcard__text[data-v-b9bc2c0a] {\n  padding: 1.5rem;\n  position: relative;\n  display: flex;\n  flex-direction: column;\n}\n.postcard .postcard__preview-txt[data-v-b9bc2c0a] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  text-align: justify;\n  height: 100%;\n}\n.postcard .postcard__tagbox[data-v-b9bc2c0a] {\n  display: flex;\n  flex-flow: row wrap;\n  font-size: 14px;\n  margin: 20px 0 0 0;\n  padding: 0;\n  justify-content: center;\n}\n.postcard .postcard__tagbox .tag__item[data-v-b9bc2c0a] {\n  display: inline-block;\n  background: rgba(83, 83, 83, 0.4);\n  border-radius: 3px;\n  padding: 2.5px 10px;\n  margin: 0 5px 5px 0;\n  cursor: default;\n  -webkit-user-select: none;\n     -moz-user-select: none;\n      -ms-user-select: none;\n          user-select: none;\n  transition: background-color 0.3s;\n}\n.postcard .postcard__tagbox .tag__item[data-v-b9bc2c0a]:hover {\n  background: rgba(83, 83, 83, 0.8);\n}\n.postcard[data-v-b9bc2c0a]:before {\n  content: \"\";\n  position: absolute;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 0;\n  background-image: linear-gradient(-70deg, #424242, transparent 50%);\n  opacity: 1;\n  border-radius: 10px;\n}\n.postcard:hover .postcard__bar[data-v-b9bc2c0a] {\n  width: 250px;\n}\n@media screen and (min-width: 769px) {\n.postcard[data-v-b9bc2c0a] {\n    flex-wrap: inherit;\n}\n.postcard .myUl[data-v-b9bc2c0a] {\n    justify-content: center;\n}\n.postcard .postcard__title[data-v-b9bc2c0a] {\n    font-size: 2rem;\n}\n.postcard .postcard__tagbox[data-v-b9bc2c0a] {\n    justify-content: start;\n}\n.postcard .postcard__img[data-v-b9bc2c0a] {\n    max-width: 300px;\n    max-height: 100%;\n    transition: transform 0.3s ease;\n}\n.postcard .postcard__text[data-v-b9bc2c0a] {\n    padding: 3rem;\n    width: 100%;\n}\n.postcard .media.postcard__text[data-v-b9bc2c0a]:before {\n    content: \"\";\n    position: absolute;\n    display: block;\n    background: #18151f;\n    top: -20%;\n    height: 130%;\n    width: 55px;\n}\n.postcard:hover .postcard__img[data-v-b9bc2c0a] {\n    transform: scale(1.1);\n}\n.postcard[data-v-b9bc2c0a]:nth-child(2n+1) {\n    flex-direction: row;\n}\n.postcard[data-v-b9bc2c0a]:nth-child(2n+0) {\n    flex-direction: row-reverse;\n}\n.postcard:nth-child(2n+1) .postcard__text[data-v-b9bc2c0a]::before {\n    left: -18px !important;\n    transform: rotate(4deg);\n}\n.postcard:nth-child(2n+0) .postcard__text[data-v-b9bc2c0a]::before {\n    right: -12px !important;\n    transform: rotate(-4deg);\n}\n}\n@media screen and (min-width: 1024px) {\n.postcard__text[data-v-b9bc2c0a] {\n    padding: 2rem 3.5rem;\n}\n.postcard__text[data-v-b9bc2c0a]:before {\n    content: \"\";\n    position: absolute;\n    display: block;\n    top: -20%;\n    height: 130%;\n    width: 55px;\n}\n.postcard.dark .postcard__text[data-v-b9bc2c0a]:before {\n    background: #18151f;\n}\n.postcard.light .postcard__text[data-v-b9bc2c0a]:before {\n    background: #e1e5ea;\n}\n}\n/* COLOR */\n.postcard .postcard__tagbox .blue.play[data-v-b9bc2c0a]:hover {\n  background: #4DB6AC;\n}\n.blue .postcard__title[data-v-b9bc2c0a]:hover {\n  color: #4DB6AC;\n}\n.blue .postcard__bar[data-v-b9bc2c0a] {\n  background-color: #4DB6AC;\n}\n.blue[data-v-b9bc2c0a]::before {\n  background-image: linear-gradient(-30deg, rgba(0, 137, 123, 0.2), transparent 50%);\n}\n.blue[data-v-b9bc2c0a]:nth-child(2n)::before {\n  background-image: linear-gradient(30deg, rgba(0, 137, 123, 0.2), transparent 50%);\n}", ""]);
+exports.push([module.i, "body[data-v-b9bc2c0a] {\n  font-family: \"Baloo 2\", cursive;\n  font-size: 16px;\n  color: #b2dfdb;\n  text-rendering: optimizeLegibility;\n  font-weight: initial;\n}\n.myUl[data-v-b9bc2c0a] {\n  margin-bottom: 0;\n  padding-left: 0;\n}\n.light[data-v-b9bc2c0a] {\n  background: #b2dfdb;\n}\na[data-v-b9bc2c0a], a[data-v-b9bc2c0a]:hover {\n  text-decoration: none;\n  transition: color 0.3s ease-in-out;\n}\n#pageHeaderTitle[data-v-b9bc2c0a] {\n  margin: 2rem 0;\n  text-transform: uppercase;\n  text-align: center;\n  font-size: 2.5rem;\n}\n\n/* Cards */\n.postcard[data-v-b9bc2c0a] {\n  flex-wrap: wrap;\n  display: flex;\n  width: 100%;\n  box-shadow: 0 4px 21px -12px rgba(0, 0, 0, 0.66);\n  border-radius: 10px;\n  margin: 0 0 2rem 0;\n  overflow: hidden;\n  position: relative;\n  color: #ffffff;\n}\n.postcard.light[data-v-b9bc2c0a] {\n  background-color: #e1e5ea;\n}\n.postcard .t-dark[data-v-b9bc2c0a] {\n  color: #18151f;\n}\n.postcard a[data-v-b9bc2c0a] {\n  color: inherit;\n}\n.postcard h1[data-v-b9bc2c0a], .postcard .h1[data-v-b9bc2c0a] {\n  margin-bottom: 0.5rem;\n  font-weight: 500;\n  line-height: 1.2;\n}\n.postcard .small[data-v-b9bc2c0a] {\n  font-size: 80%;\n}\n.postcard .postcard__title[data-v-b9bc2c0a] {\n  font-size: 1.75rem;\n}\n.postcard .postcard__img[data-v-b9bc2c0a] {\n  max-height: 180px;\n  width: 100%;\n  -o-object-fit: cover;\n     object-fit: cover;\n  position: relative;\n}\n.postcard .postcard__img_link[data-v-b9bc2c0a] {\n  display: contents;\n}\n.postcard .postcard__bar[data-v-b9bc2c0a] {\n  width: 150px;\n  height: 15px;\n  margin: 10px 0;\n  border-radius: 5px;\n  background-color: #424242;\n  transition: width 0.2s ease;\n}\n.postcard .postcard__text[data-v-b9bc2c0a] {\n  padding: 1.5rem;\n  position: relative;\n  display: flex;\n  flex-direction: column;\n}\n.postcard .postcard__preview-txt[data-v-b9bc2c0a] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  text-align: justify;\n  height: 100%;\n}\n.postcard .postcard__tagbox[data-v-b9bc2c0a] {\n  display: flex;\n  flex-flow: row wrap;\n  font-size: 14px;\n  margin: 20px 0 0 0;\n  padding: 0;\n  justify-content: center;\n}\n.postcard .postcard__tagbox .tag__item[data-v-b9bc2c0a] {\n  display: inline-block;\n  background: rgba(83, 83, 83, 0.4);\n  border-radius: 3px;\n  padding: 2.5px 10px;\n  margin: 0 5px 5px 0;\n  cursor: default;\n  -webkit-user-select: none;\n     -moz-user-select: none;\n      -ms-user-select: none;\n          user-select: none;\n  transition: background-color 0.3s;\n}\n.postcard .postcard__tagbox .tag__item[data-v-b9bc2c0a]:hover {\n  background: rgba(83, 83, 83, 0.8);\n}\n.postcard[data-v-b9bc2c0a]:before {\n  content: \"\";\n  position: absolute;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 0;\n  background-image: linear-gradient(-70deg, #424242, transparent 50%);\n  opacity: 1;\n  border-radius: 10px;\n}\n.postcard:hover .postcard__bar[data-v-b9bc2c0a] {\n  width: 250px;\n}\n@media screen and (min-width: 769px) {\n.postcard[data-v-b9bc2c0a] {\n    flex-wrap: inherit;\n}\n.postcard .myUl[data-v-b9bc2c0a] {\n    justify-content: center;\n}\n.postcard .postcard__title[data-v-b9bc2c0a] {\n    font-size: 2rem;\n}\n.postcard .postcard__tagbox[data-v-b9bc2c0a] {\n    justify-content: start;\n}\n.postcard .postcard__img[data-v-b9bc2c0a] {\n    max-width: 300px;\n    max-height: 100%;\n    transition: transform 0.3s ease;\n}\n.postcard .postcard__text[data-v-b9bc2c0a] {\n    padding: 3rem;\n    width: 100%;\n}\n.postcard .media.postcard__text[data-v-b9bc2c0a]:before {\n    content: \"\";\n    position: absolute;\n    display: block;\n    background: #18151f;\n    top: -20%;\n    height: 130%;\n    width: 55px;\n}\n.postcard:hover .postcard__img[data-v-b9bc2c0a] {\n    transform: scale(1.1);\n}\n.postcard[data-v-b9bc2c0a]:nth-child(2n+1) {\n    flex-direction: row;\n}\n.postcard[data-v-b9bc2c0a]:nth-child(2n+0) {\n    flex-direction: row-reverse;\n}\n.postcard:nth-child(2n+1) .postcard__text[data-v-b9bc2c0a]::before {\n    left: -18px !important;\n    transform: rotate(4deg);\n}\n.postcard:nth-child(2n+0) .postcard__text[data-v-b9bc2c0a]::before {\n    right: -12px !important;\n    transform: rotate(-4deg);\n}\n}\n@media screen and (min-width: 1024px) {\n.postcard__text[data-v-b9bc2c0a] {\n    padding: 2rem 3.5rem;\n}\n.postcard__text[data-v-b9bc2c0a]:before {\n    content: \"\";\n    position: absolute;\n    display: block;\n    top: -20%;\n    height: 130%;\n    width: 55px;\n}\n.postcard.dark .postcard__text[data-v-b9bc2c0a]:before {\n    background: #18151f;\n}\n.postcard.light .postcard__text[data-v-b9bc2c0a]:before {\n    background: #e1e5ea;\n}\n}\n/* COLOR */\n.postcard .postcard__tagbox .blue.play[data-v-b9bc2c0a]:hover {\n  background: #4DB6AC;\n}\n.blue .postcard__title[data-v-b9bc2c0a]:hover {\n  color: #4DB6AC;\n}\n.blue .postcard__bar[data-v-b9bc2c0a] {\n  background-color: #4DB6AC;\n}\n.blue[data-v-b9bc2c0a]::before {\n  background-image: linear-gradient(-30deg, rgba(0, 137, 123, 0.2), transparent 50%);\n}\n.blue[data-v-b9bc2c0a]:nth-child(2n)::before {\n  background-image: linear-gradient(30deg, rgba(0, 137, 123, 0.2), transparent 50%);\n}", ""]);
 
 // exports
 
@@ -3400,7 +3473,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "body[data-v-61a7c374] {\n  background: #ff5f6d;\n  background: linear-gradient(to right, #26A69A, #B2DFDB);\n  min-height: 50vh;\n}\n#button-addon1[data-v-61a7c374] {\n  color: #B2DFDB;\n}\ni[data-v-61a7c374] {\n  color: #B2DFDB;\n}\n.form-control[data-v-61a7c374]::-moz-placeholder {\n  font-size: 0.95rem;\n  color: #aaa;\n  font-style: italic;\n}\n.form-control[data-v-61a7c374]:-ms-input-placeholder {\n  font-size: 0.95rem;\n  color: #aaa;\n  font-style: italic;\n}\n.form-control[data-v-61a7c374]::placeholder {\n  font-size: 0.95rem;\n  color: #aaa;\n  font-style: italic;\n}\n.form-control.shadow-0[data-v-61a7c374]:focus {\n  box-shadow: none;\n}", ""]);
+exports.push([module.i, "body[data-v-61a7c374] {\n  background: #ff5f6d;\n  background: linear-gradient(to right, #26a69a, #b2dfdb);\n  min-height: 50vh;\n}\n#button-addon1[data-v-61a7c374] {\n  color: #b2dfdb;\n}\ni[data-v-61a7c374] {\n  color: #b2dfdb;\n}\n.form-control[data-v-61a7c374]::-moz-placeholder {\n  font-size: 0.95rem;\n  color: #aaa;\n  font-style: italic;\n}\n.form-control[data-v-61a7c374]:-ms-input-placeholder {\n  font-size: 0.95rem;\n  color: #aaa;\n  font-style: italic;\n}\n.form-control[data-v-61a7c374]::placeholder {\n  font-size: 0.95rem;\n  color: #aaa;\n  font-style: italic;\n}\n.form-control.shadow-0[data-v-61a7c374]:focus {\n  box-shadow: none;\n}", ""]);
 
 // exports
 
@@ -5677,7 +5750,7 @@ var staticRenderFns = [
                   _c("div", { staticClass: "testimonial-content" }, [
                     _c("p", [
                       _vm._v(
-                        "\n                            Mi piace tantissimo!! Ho finalmente risolto il mio problema alla schiena con la dottoressa trovata qua sopra! Finalemnte posso tornare a fare la stripper!\n                        "
+                        "\n                            Mi piace tantissimo!! Ho finalmente risolto il mio problema alla schiena con la dottoressa trovata qua sopra! Finalemnte posso tornare a fare la contorzionista!\n                        "
                       )
                     ])
                   ]),
@@ -5698,7 +5771,7 @@ var staticRenderFns = [
                         staticClass: "testimonial-job-title",
                         attrs: { itemprop: "jobTitle" }
                       },
-                      [_vm._v("Stripper professionista")]
+                      [_vm._v("Contorzionista professionista")]
                     )
                   ])
                 ])
@@ -5796,7 +5869,7 @@ var staticRenderFns = [
                         staticClass: "testimonial-job-title",
                         attrs: { itemprop: "jobTitle" }
                       },
-                      [_vm._v("Tuffatrice")]
+                      [_vm._v("Personal Trainer")]
                     )
                   ])
                 ])
@@ -6053,7 +6126,7 @@ var render = function() {
           _vm._v(" "),
           _c("div", { staticClass: "col-lg-2 col-md-6 mb-4 mb-lg-0" }, [
             _c("h6", { staticClass: "text-uppercase font-weight-bold mb-4" }, [
-              _vm._v("F.A.Q")
+              _vm._v("\n                        F.A.Q\n                    ")
             ]),
             _vm._v(" "),
             _c("ul", { staticClass: "list-unstyled mb-0" }, [
@@ -6125,7 +6198,9 @@ var render = function() {
           _vm._v(" "),
           _c("div", { staticClass: "col-lg-2 col-md-6 mb-4 mb-lg-0" }, [
             _c("h6", { staticClass: "text-uppercase font-weight-bold mb-4" }, [
-              _vm._v("The Company")
+              _vm._v(
+                "\n                        The Company\n                    "
+              )
             ]),
             _vm._v(" "),
             _c("ul", { staticClass: "list-unstyled mb-0" }, [
@@ -6223,7 +6298,9 @@ var staticRenderFns = [
                 ]),
                 _vm._v(" "),
                 _c("p", { staticClass: "lead mb-0" }, [
-                  _vm._v("Il futuro delle piattaforme mediche.")
+                  _vm._v(
+                    "\n                        Il futuro delle piattaforme mediche\n                    "
+                  )
                 ])
               ]
             )
@@ -6249,7 +6326,9 @@ var staticRenderFns = [
       }),
       _vm._v(" "),
       _c("p", { staticClass: "font-italic text-muted" }, [
-        _vm._v("Per rimanere aggiornato seguici sui nostri social.")
+        _vm._v(
+          "\n                        Per rimanere aggiornato seguici sui nostri social\n                    "
+        )
       ]),
       _vm._v(" "),
       _c("ul", { staticClass: "list-inline mt-4" }, [
@@ -6298,39 +6377,10 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "col-lg-4 col-md-6 mb-lg-0" }, [
-      _c("h6", { staticClass: "text-uppercase font-weight-bold mb-4" }, [
-        _vm._v("Newsletter")
-      ]),
-      _vm._v(" "),
-      _c("p", { staticClass: "text-muted mb-4" }, [
-        _vm._v(
-          "Iscriviti alla Newsletter per rimanere informato su tutte le novità."
-        )
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "p-1 rounded border" }, [
-        _c("div", { staticClass: "input-group" }, [
-          _c("input", {
-            staticClass: "form-control border-0 shadow-0",
-            attrs: {
-              type: "email",
-              placeholder: "Enter your email address",
-              "aria-describedby": "button-addon1"
-            }
-          }),
-          _vm._v(" "),
-          _c("div", { staticClass: "input-group-append" }, [
-            _c(
-              "button",
-              {
-                staticClass: "btn btn-link",
-                attrs: { id: "button-addon1", type: "submit" }
-              },
-              [_c("i", { staticClass: "fa fa-paper-plane" })]
-            )
-          ])
-        ])
-      ])
+      _c("img", {
+        staticStyle: { width: "100%" },
+        attrs: { src: __webpack_require__(/*! ../../../public/img/anticovid.png */ "./public/img/anticovid.png"), alt: "" }
+      })
     ])
   },
   function() {
@@ -6340,7 +6390,9 @@ var staticRenderFns = [
     return _c("div", { staticClass: "bg-light py-4" }, [
       _c("div", { staticClass: "container text-center" }, [
         _c("p", { staticClass: "text-muted mb-0 py-2" }, [
-          _vm._v("© 2021 Team3 All rights reserved.")
+          _vm._v(
+            "\n                    © 2021 Team3 All rights reserved\n                "
+          )
         ])
       ])
     ])
@@ -40403,6 +40455,17 @@ module.exports = g;
 
 /***/ }),
 
+/***/ "./public/img/anticovid.png":
+/*!**********************************!*\
+  !*** ./public/img/anticovid.png ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/anticovid.png?131a5e0c9aeaa6583cfd6f97e94ec80a";
+
+/***/ }),
+
 /***/ "./resources/js/App.vue":
 /*!******************************!*\
   !*** ./resources/js/App.vue ***!
@@ -40524,12 +40587,6 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.config.productionTip = false;
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vuesax__WEBPACK_IMPORTED_MODULE_3___default.a, {// options here
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vue_carousel__WEBPACK_IMPORTED_MODULE_5___default.a);
-/* const app = new Vue({
-    el: '#app',
-    router,
-    render: h => h(App)
-}); */
-
 new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
   Vuesax: vuesax__WEBPACK_IMPORTED_MODULE_3___default.a,
   router: _routes__WEBPACK_IMPORTED_MODULE_2__["default"],
@@ -42022,8 +42079,8 @@ var router = new vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/Michael/Downloads/BoolDoctorss-master 3/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/Michael/Downloads/BoolDoctorss-master 3/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Volumes/The Beast/Boolean Careers/#32/Progetto Finale/BoolDoctorss-master/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Volumes/The Beast/Boolean Careers/#32/Progetto Finale/BoolDoctorss-master/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

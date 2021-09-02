@@ -37401,7 +37401,7 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/Michael/Downloads/BoolDoctorss-master 3/resources/js/admin.js */"./resources/js/admin.js");
+module.exports = __webpack_require__(/*! /Volumes/The Beast/Boolean Careers/#32/Progetto Finale/BoolDoctorss-master/resources/js/admin.js */"./resources/js/admin.js");
 
 
 /***/ })

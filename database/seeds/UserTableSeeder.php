@@ -320,7 +320,7 @@ class UserTableSeeder extends Seeder
     }
 
     private function randAddress(){
-        $array = ['Via della Stalla, 15', 'Via de Ughi, 30', 'Via del Sacro Cuore, 80', 'Via Parco della Vittoria, 67', 'Via dei Compagni non Lavoratori, 1', 'Viale Gran Sasso, 180', 'Viale Romano, 45', 'Via dei Cuori, 50', 'Piazza della Repubblica, 150', 'Vicolo Corto, 14', 'Viale dei Pioppi, 155', 'Via della Molisana, 23', 'Via dei Dischi, 98', 'Via del Watsapp, 52', 'Via Json non Trovato, 33', 'Via Snacks, 39', 'Corso Rick&Morty, 78', 'Via della Sardegna, 25', 'Via bruciata, 63', 'Via quel Paese, 55' ];
+        $array = ['Via della Stalla, 15', 'Via de Ughi, 30', 'Via del Sacro Cuore, 80', 'Via Parco della Vittoria, 67', 'Via dei Compagni non Lavoratori, 1', 'Viale Gran Sasso, 180', 'Viale Romano, 45', 'Via dei Cuori, 50', 'Piazza della Repubblica, 150', 'Vicolo Corto, 14', 'Viale dei Pioppi, 155', 'Via della Molisana, 23', 'Via dei Dischi, 98', 'Via del Watsapp, 52', 'Via Json, 33', 'Via Snacks, 39', 'Corso Rick&Morty, 78', 'Via della Sardegna, 25', 'Via bruciata, 63', 'Via quel Paese, 55' ];
         shuffle($array); //mischia
         return $array[0];
     }
